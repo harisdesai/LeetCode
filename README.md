@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/harisdesai/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harisdesai/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/harisdesai/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/harisdesai/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/harisdesai/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harisdesai/LeetCode/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/harisdesai/LeetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harisdesai/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/harisdesai/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
